@@ -82,7 +82,7 @@ a:hover, a:active {
 }
 
 .fakeimg1 {
-  background-image: url("https://lh3.googleusercontent.com/g3hd9exQ-aau3ZNmGVL7sQ9jl84KtK0vF7PIbYexUK6_1MdHeIe6V6vyOxwfm1q6q6dX=s170");
+  background-image: url("chatbot2.png");
   width: 55%;
   padding: 20px;
     background-repeat: no-repeat;
@@ -90,7 +90,7 @@ background-size: 100% 100%;
 }
 
 .fakeimg2 {
-  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fapigem_sante&psig=AOvVaw0iliw3RsaYj9EZytkg0lt1&ust=1645349159511000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDGybW5i_YCFQAAAAAdAAAAABAD");
+  background-image: url("chat-bot1.jpg");
   width: 55%;
   padding: 20px;
     background-repeat: no-repeat;
@@ -98,7 +98,7 @@ background-size: 100% 100%;
 }
 
 .fakeimg3 {
-  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Farabot.io%2Fen%2Fblog-post%2F4%2F&psig=AOvVaw16m56f4bfCYWzrAdQfRc4G&ust=1645348984253000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDqtuS4i_YCFQAAAAAdAAAAABAD");
+  background-image: url("covidbot.jpg");
   width: 55%;
   padding: 20px;
     background-repeat: no-repeat;
@@ -196,7 +196,7 @@ background-size: 100% 100%;
       <h3>Follow Me</h3>
       <center>
        <a href="https://github.com/prashant867/Covid-HealthCare-ChatBot" target="_blank">
-        <img src="https://www.google.com/search?sa=G&hl=en-IN&tbs=simg:CAQS7gEJd5tCjrBZk88a4gELELCMpwgaOgo4CAQSFOcC7yP5GJo8pAO_1Ap8HzBSPJs0LGhqvLzE3BjA1Ru_12rR56MhpBeP_1KrlCZ_1hnw6iAFMAQMCxCOrv4IGgoKCAgBEgTozbftDAsQne3BCRqCAQoVCgNjYXTapYj2AwoKCC9tLzAxeXJ4ChoKB3N0aWNrZXLapYj2AwsKCS9tLzA1Yjk3ZwodCgpzaWxob3VldHRl2qWI9gMLCgkvbS8wM3RoZ2sKFAoDYXJ02qWI9gMJCgcvbS8wamp3ChgKBmNpcmNsZdqliPYDCgoIL20vMDF2a2wM&sxsrf=APq-WBttLAf8b99xPxDOI7KbLcrihv9Q9A:1645263176842&q=github+play+store&tbm=isch&ved=2ahUKEwj8x975uov2AhVslFYBHUWWChkQwg4oAHoECAEQMw"  style="width:90px;height:80px;  "></a>
+        <img src="github.jpg"  style="width:90px;height:80px;  "></a>
       </center>
       </section>
      </div>
